@@ -3,10 +3,10 @@
 Dashboard link :
 
 # Abstract   
-This report provide insights into trends and performance among Data Professionals based on a survey.
+This report provide insights into the  trends and performance among Data Professionals based on a survey.
 
 ## Data Source   
-The Data used in this analysis was provided by Alex Freberg on his Youtube channel "Alex the Analyst" .The Data was collected through a survey from Data Professionals fro various regiions by Alex Freberg.
+The Data used in this analysis was provided by Alex Freberg on his Youtube channel "Alex the Analyst" .The Data was collected through a survey from Data Professionals from various regiions by Alex Freberg.
 
 
 ## Content   
